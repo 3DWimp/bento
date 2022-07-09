@@ -1,0 +1,14 @@
+.container {
+    width: 300px;
+    margin: 60px auto;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.bento {
+    box-sizing: border-box;
+    padding: auto;
+    width: 100px;
+    height: 100px;
+    background-color: crimson;
+}
